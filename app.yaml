@@ -1,0 +1,8 @@
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: Local_workbench
+  CLOUD_SQL_PASSWORD: 12345678
+  CLOUD_SQL_DATABASE_NAME: Registration
+  CLOUD_SQL_CONNECTION_NAME: notes2-370110:europe-central2:registration
+
